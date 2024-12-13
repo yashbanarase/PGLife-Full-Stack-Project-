@@ -1,9 +1,6 @@
 <?php
 session_start();
 
-header("Access-Control-Allow-Origin: *");
-header('Content-Type: application/json');
-
 require "../includes/database_connect.php";
 
 if (!isset($_SESSION['user_id'])) {
