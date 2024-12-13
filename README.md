@@ -36,3 +36,12 @@ PGLife is a web application that helps users find paying guest (PG) accommodatio
    Navigate to http://localhost/PGLife/index.php in your browser.
 
 
+Screenshots 📸
+### Homepage
+![Homepage](https://github.com/your-username/your-repo-name/blob/main/homepage.png)
+
+Search Results
+
+Contributors ✨
+Yash Banarase (Project Lead)
+
